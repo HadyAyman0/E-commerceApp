@@ -1,0 +1,10 @@
+.card:global(.card:hover .img1)
+{
+   display: none;
+}
+.card:global(.card:hover .img2)
+{
+   display: block;
+}
+
+

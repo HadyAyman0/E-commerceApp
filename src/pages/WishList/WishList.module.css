@@ -1,0 +1,7 @@
+.pic:global(.pic:hover .img1){
+    display: none;
+}
+.pic:global(.pic:hover .img2){
+    display: block;
+
+}
